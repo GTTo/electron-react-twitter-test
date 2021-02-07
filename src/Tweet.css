@@ -1,0 +1,15 @@
+.tweet {
+    box-sizing: content-box;
+    width: 90%;
+    background-color:  #5B6DCD;
+    border: solid whitesmoke 2px;
+    color: whitesmoke;
+    padding: 5px;
+    font-style: italic;
+}
+
+.date {
+    text-align: right;
+    font-size: x-small;
+    font-style: normal;
+}
