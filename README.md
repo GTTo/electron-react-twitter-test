@@ -2,6 +2,13 @@
 
 This project was a test app created for apply for an Axosoft React developer position.
 
+## Setup
+
+It's needed to configure a Twitter BEARER TOKEN for getting access to twitter API.\
+You have to set a BEARER_TOKEN environment variable in this way `BEARER_TOKEN='YOUR-TOKEN'` 
+
+Check your OS documentation in order to set env variables.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -24,7 +31,6 @@ It correctly bundles `electron-react` in production mode and optimizes the build
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-
-
-Thanks,
+# 
+Thanks,\
 César Beviá
